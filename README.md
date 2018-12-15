@@ -1,0 +1,2 @@
+# generalwp
+Wordpress general perpose.
