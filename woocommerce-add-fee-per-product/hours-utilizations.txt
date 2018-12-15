@@ -1,0 +1,4 @@
+Hours Utilization.
+----------------------
+- Plugin Creation and Settings page and add more product fee functionalities. - 3.25 Hours
+- Added fees based on product fees settings - 0.5 Hour
